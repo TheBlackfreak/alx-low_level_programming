@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main - Printing
+ * main - entry point
  *
- * Return 0
+ * Using puts instead of printf to print strings
  *
- * Using puts instead of printf
- *
+ *Return: 0
  */
-int main()
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
