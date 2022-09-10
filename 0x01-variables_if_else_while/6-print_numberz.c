@@ -5,6 +5,7 @@
  * Description- using main function
  *
  * This program prints numbers from 0-9
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
