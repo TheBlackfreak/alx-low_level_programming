@@ -30,7 +30,7 @@ else if (n == 0)
 	/*If true the print the following*/
 	printf("%i is zero\n", n);
 }
-else if (n < 0)
+else
 {
 	/*If true print the following*/
 	printf("%i is negative\n", n);
