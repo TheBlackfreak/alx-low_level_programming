@@ -1,15 +1,12 @@
 #include <stdio.h>
 
 /**
- * Main- entry point
+ * main - entry point
  *
- * Description- using the main function
- *
- * This program prints a series of numbers with comma
+ * Description: This program prints a series of numbers with comma
  *
  * Return: 0
  */
-
 int main(void)
 {
 	int c;
