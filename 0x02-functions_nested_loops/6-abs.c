@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio>
 /**
- * _abs- entry point
+ * _abs - entry point
  *
  * Description: This program computes the absolute value of an integer
  *
