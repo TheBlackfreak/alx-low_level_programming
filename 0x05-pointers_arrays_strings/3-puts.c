@@ -6,7 +6,7 @@
  *
  * @str: string to print
  *
- * Description: This program prints a string 
+ * Description: This program prints a string
  *
  * On success: returns no error
  */
